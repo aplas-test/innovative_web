@@ -19,7 +19,47 @@
       "sme_name": "Hieronymus Presnail",
       "months_to_renew_support": "23",
       "sme_email": "Hieronymus.Presnail@memento.net.au",
-      "investment_number": "364"
+      "investment_number": "364",
+      "integrations": [
+        {
+          "id": "int-204",
+          "name": "INT-204",
+          "categoryId": "8b222828-21a4-4c70-8033-e7ea01923c61",
+          "description": "Nulla justo.",
+          "sourceApplicationId": "innovative_web",
+          "targetApplicationId": "gembucket",
+          "logical_server": "BATCH",
+          "status_color": "#0000FF",
+          "pattern": "Scatter Gather",
+          "golive_date": "21/9/15",
+          "sme_name": "Roland Elijah",
+          "datacentre": "Dandenong",
+          "department": "Integration",
+          "status": "InDevelopment",
+          "sme_email": "relijahe@memento.net.au",
+          "complexity": "Low",
+          "last_deployment_date": "13/3/15"
+        },
+        {
+          "id": "int-368",
+          "name": "INT-368",
+          "categoryId": "0b92058e-25af-4e83-ad26-fe6e6f607f17",
+          "description": "Nulla tellus. In sagittis dui vel nisl. Duis ac nibh.",
+          "sourceApplicationId": "innovative_web",
+          "targetApplicationId": "granular_big_data",
+          "logical_server": "CLOUD-B2B",
+          "status_color": "#00FF00",
+          "pattern": "Sync Request-Reply",
+          "golive_date": "29/12/05",
+          "sme_name": "Preston Shortland",
+          "datacentre": "Asia Pacific (Sydney)",
+          "department": "App Control",
+          "status": "Active",
+          "sme_email": "pshortland8@memento.net.au",
+          "complexity": "Medium",
+          "last_deployment_date": "19/1/17"
+        }
+      ]
     }
   ]
 }
