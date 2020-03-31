@@ -1,21 +1,25 @@
 {
-  "id": "innovative_web",
-  "name": "Innovative Web",
-  "categoryId": "billing",
-  "description": "Diverse directional support",
-  "investment_24m": "984",
-  "hostedtype": "OnPremise",
-  "licensing_cost": "173",
-  "status_color": "#00FF00",
-  "type": "OffShelf",
-  "support_cost": "447",
-  "deployment_date": "19/2/10",
-  "end_of_maintenance": "3/11/17",
-  "department": "Sales",
-  "status": "Active",
-  "end_of_life": "7/2/19",
-  "sme_name": "Hieronymus Presnail",
-  "months_to_renew_support": "23",
-  "sme_email": "Hieronymus.Presnail@memento.net.au",
-  "investment_number": "364"
+  "applications": [
+    {
+      "id": "innovative_web",
+      "name": "Innovative Web",
+      "categoryId": "billing",
+      "description": "Diverse directional support",
+      "investment_24m": "984",
+      "hostedtype": "OnPremise",
+      "licensing_cost": "173",
+      "status_color": "#00FF00",
+      "type": "OffShelf",
+      "support_cost": "447",
+      "deployment_date": "19/2/10",
+      "end_of_maintenance": "3/11/17",
+      "department": "Sales",
+      "status": "Active",
+      "end_of_life": "7/2/19",
+      "sme_name": "Hieronymus Presnail",
+      "months_to_renew_support": "23",
+      "sme_email": "Hieronymus.Presnail@memento.net.au",
+      "investment_number": "364"
+    }
+  ]
 }
